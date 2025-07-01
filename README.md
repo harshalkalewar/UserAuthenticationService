@@ -130,7 +130,7 @@ src/
 ## 👤 Author
 
 **Harshal Kalewar**  
-🔗 [LinkedIn](https://www.linkedin.com/in/harshalkalewar)
+🔗 [LinkedIn](https://www.linkedin.com/in/harshal-kalewar)
 
 ---
 
